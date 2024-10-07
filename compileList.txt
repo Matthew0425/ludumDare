@@ -1,0 +1,9 @@
+main.c
+spider.c 
+boxCollision.c 
+-LC:\Users\abcdefg\Desktop\Cdev\spiderGrandPrix\SDL2\lib\x64
+-lSDL2
+-lSDL2main
+-lSDL2_image 
+fly.c 
+generateWorld.c 
